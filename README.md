@@ -30,7 +30,7 @@ I am a data analyst using [MariaDB] and Python to clean and process data, as wel
 #
 
 ### 📊 Stats
-[![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=avgra3)](https://github.com/anuraghazra/github-readme-stats)
+[![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=avgra3&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
