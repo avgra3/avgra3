@@ -1,4 +1,4 @@
-# 💻 Antony Gradillas
+# 💻 Antony G.
 
 **`Data Analyst & Homelaber`**
 
